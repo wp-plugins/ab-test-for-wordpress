@@ -10,7 +10,7 @@ A/B split testing for WordPress made easy.
 
 A/B Test for WordPress is a free plugin that makes it easy to set up and perform A/B split testing on any WordPress site:
 
-[See a video demonstration of the plugin](http://lassebunk.dk/2012/01/14/ab-test-for-wordpress/) and [see more tutorials](http://lassebunk.dk/plugins/abtest/#tutorials)
+&rarr; [See a video demonstration of the plugin](http://lassebunk.dk/2012/01/14/ab-test-for-wordpress/) and [see more tutorials](http://lassebunk.dk/plugins/abtest/#tutorials)
 
 You have the opportunity to test four types of content:
 
@@ -29,6 +29,8 @@ You have access to a number of options to measure your split tests:
 
 * **Built-in measuring** – use the built-in measurement statistics.
 * **Custom measuring** – use Google Analytics or another of your choice.
+
+[Download the plugin](http://downloads.wordpress.org/plugin/ab-test-for-wordpress.zip) (put it in your **wp-content/plugins** folder)
 
 == Installation ==
 
