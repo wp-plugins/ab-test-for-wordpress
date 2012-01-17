@@ -2,8 +2,8 @@
 /*
 Plugin Name:  A/B Test for WordPress
 Plugin URI:   http://lassebunk.dk/wordpress/ab-test
-Version:      1.0.2
-Description:  Easily perform A/B tests on any WordPress site.
+Version:      1.0.3
+Description:  This plugin has moved to <a href="http://wordpress.org/extend/plugins/abtest/">A/B Test for WordPress</a>. Please update.
 Author:       Lasse Bunk
 Author URI:   http://lassebunk.dk/
 */
